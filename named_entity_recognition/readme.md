@@ -26,3 +26,5 @@ B2 : i/p vector consists [prev word embedding,current word embedding, prev label
 C2 : Viterbi Implementation to get optimal answer
 
 The standard training time is 5-10 minutes and testing time is 15-30 minutes
+
+Dataset was provided in CS 590:ML4NLP Course
