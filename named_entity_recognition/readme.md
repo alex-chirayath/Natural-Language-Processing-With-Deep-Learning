@@ -1,3 +1,6 @@
+Named ENtity Recognition using Deep MEMM and Viterbi
+
+
 Deep Maximum Entropy Markov Model
 (DMEMM). DMEMM extends MEMM by using a neural network to build the conditional probability.
 Implementation of the deep memm is avaiable in the source
